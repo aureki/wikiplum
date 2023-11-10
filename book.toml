@@ -9,8 +9,10 @@ title = "Wikiplum"
 
 [preprocessor.pagetoc]
 
+[preprocessor.infobox]
+
 [output]
 
 [output.html]
-additional-css = ["theme/pagetoc.css"]
+additional-css = ["theme/infobox.css", "theme/pagetoc.css"]
 additional-js  = ["theme/pagetoc.js"]

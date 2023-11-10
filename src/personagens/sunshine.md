@@ -1,5 +1,15 @@
 # Sunshine
 
+{{#infobox}}
+# Sunshine
+![picture](https://acdn.mitiendanube.com/stores/766/314/products/sunshine_prancheta-11-25d1f8cc33b59100c216431278914221-1024-1024.webp)
+# Name
+Teste Sunshine
+
+# Age
+18 years
+{{/infobox}}
+
 Uma criança sem nome, filha da [Plum Priestess](plum-priestess.md), que gosta de ser chamada de Sunshine, um nickname que lhe foi dada pela sua mãe antes de serem separadas.
 
 ## 🏋️ Características físicas
