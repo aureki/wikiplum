@@ -13,8 +13,9 @@
     - [Sunshine](personagens/sunshine.md)
     - [Unnamed Grand Dad](personagens/unnamed-grand-dad.md)
     - [Unnamed Grand Mother](personagens/unnamed-grand-mother.md)
-
+  
 - [Outros]()
     - [Atributos](misc/atributos.md)
+    - [Sistema de batalha](misc/sistema-de-batalha.md)
     - [Classes](misc/classes.md)
     - [Regras de sucessão](misc/regras-de-sucessao.md)
