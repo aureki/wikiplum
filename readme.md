@@ -1,4 +1,4 @@
-# Instalando dependencias
+# Instalando dependências
 
 ```sh
 $ cargo install mdbook mdbook-pagetoc
