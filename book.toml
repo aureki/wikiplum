@@ -16,3 +16,6 @@ title = "Wikiplum"
 [output.html]
 additional-css = ["theme/infobox.css", "theme/pagetoc.css"]
 additional-js  = ["theme/pagetoc.js"]
+
+[output.html.search]
+enable = true
