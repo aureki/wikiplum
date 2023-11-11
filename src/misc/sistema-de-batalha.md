@@ -10,7 +10,7 @@
 
 ### Extra
 - **Determinação**: Determina o dano adicional que o personagem causa quando está com pouca vida.
-- **Perseverança**: Determina a chance de o personagem resistir a efeitos negativos.
+- **Perseverança**: Determina a chance do personagem resistir a efeitos negativos.
 - **Medicina**: Determina a quantidade de vida adicional que o personagem recupera ao usar itens de cura.
 - **Arcanismo**: Determina a diminuição do tempo de recarga dos feitiços do personagem. 
 - **Adestramento**: Determina a quantidade adicional de atributos do [Pet](pet.md).
