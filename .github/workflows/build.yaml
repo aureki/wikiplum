@@ -15,11 +15,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
+      - name: Setup Rust cache
+        uses: Swatinem/rust-cache@v2
+
       - name: Install dependencies
         run: cargo install mdbook mdbook-pagetoc && cargo install --path mdbook-infobox
 
       - name: Setup Pages
-        uses: actions/configure-pages@v2
+        uses: actions/configure-pages@v3
 
       - name: Build page
         run: mdbook build 
